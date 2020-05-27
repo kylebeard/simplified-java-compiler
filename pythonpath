@@ -1,0 +1,6 @@
+# If the code cannot locate a Python 2 interpreter, list it below (with no # in front of it), for example something like
+#     /usr/bin/python2
+# (Linux/Mac) or
+#     C:\Program Files\Python2.7\python
+# (Windows).
+

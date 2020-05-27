@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ANTLRGenerationPreferences">
+    <option name="perGrammarGenerationSettings">
+      <list>
+        <PerGrammarGenerationSettings>
+          <option name="fileName" value="$PROJECT_DIR$/grammar/Java.g4" />
+          <option name="autoGen" value="true" />
+          <option name="outputDir" value="" />
+          <option name="libDir" value="" />
+          <option name="encoding" value="" />
+          <option name="pkg" value="cmpt355.project" />
+          <option name="language" value="" />
+          <option name="generateVisitor" value="true" />
+        </PerGrammarGenerationSettings>
+      </list>
+    </option>
+  </component>
+  <component name="JavadocGenerationManager">
+    <option name="OUTPUT_DIRECTORY" value="$PROJECT_DIR$/doc" />
+    <option name="OPTION_SCOPE" value="package" />
+    <option name="OPTION_SEPARATE_INDEX" value="false" />
+    <option name="OTHER_OPTIONS" value="--enable-preview -source 13 -link https://docs.oracle.com/en/java/javase/13/docs/api -Xdoclint:-missing -header &quot;&lt;div id='westminster-logo'&gt;&lt;strong&gt;CMPT 355 &amp;mdash; Individual Project&lt;/strong&gt;&lt;/div&gt;&quot; --main-stylesheet $PROJECT_DIR$/resources/stylesheet.css" />
+    <option name="OPEN_IN_BROWSER" value="false" />
+    <option name="OPTION_INCLUDE_LIBS" value="true" />
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_13_PREVIEW" default="false" project-jdk-name="13" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

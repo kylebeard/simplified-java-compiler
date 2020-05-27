@@ -1,0 +1,19 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="07 - MethodCallTest" type="JUnit" factoryName="JUnit">
+    <module name="2020spring_cmpt355_ip5" />
+    <extension name="coverage">
+      <pattern>
+        <option name="PATTERN" value="cmpt355.project.codegen.*" />
+        <option name="ENABLED" value="true" />
+      </pattern>
+    </extension>
+    <option name="PACKAGE_NAME" value="cmpt355.project.codegen" />
+    <option name="MAIN_CLASS_NAME" value="cmpt355.project.codegen.MethodCallTest" />
+    <option name="METHOD_NAME" value="" />
+    <option name="TEST_OBJECT" value="class" />
+    <option name="PARAMETERS" value="" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>

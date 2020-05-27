@@ -1,0 +1,7 @@
+/out/
+/test-files/**/*.j
+/test-files/**/*.ast
+/test-files/**/*.class
+/compiled/**/*.j
+/compiled/**/*.ast
+/assembled/**/*.class
