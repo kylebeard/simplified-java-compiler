@@ -1,1 +1,1 @@
-# simplified-java-compiler
+This is a compiler for the Java language, written in java. The compiler does not support all Java features (for example, generics are not supported), however it supports the basics and then some. Written as part of Compilers course at Westminster College, Spring 2020.
